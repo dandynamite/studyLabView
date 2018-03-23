@@ -6,4 +6,7 @@ Lapview web service usecase :
 - labview not available on client machine
  
 
- TODO : LABVIEW WEB UI BUILDER
+TODO : LABVIEW WEB UI BUILDER
+- allow to build a thin-clinet 
+- not free, need to buy a key for deploy
+- need to write your labview program as a web service
